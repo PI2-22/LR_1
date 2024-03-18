@@ -9,7 +9,7 @@ namespace PR2_git
 
         private void button2_Click(object sender, EventArgs e)
         {
-         
+
             label1.Text = "Это выполнено в ветке Ivanov_Sergey";
         }
 
